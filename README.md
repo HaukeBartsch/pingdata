@@ -1,18 +1,21 @@
 Download DICOM images from XNAT
 ===============================
 
-This command line program connects to an XNAT image store, lists the subjects available and downloads subject information as zip files to the local directory.
+This command line program connects to an XNAT image store, lists the subjects available and downloads subject
+information as zip files to the local directory.
 
-You can download the compiled program here:
 
-* MacOSX
+You can download the compiled program here (make it executable with 'chmod +x pingdata'):
+
+* MacOSX:
 	wget https://github.com/HaukeBartsch/pingdata/raw/master/binary/MacOSX/pingdata
-  
+* Linux64:
+	wget https://github.com/HaukeBartsch/pingdata/raw/master/binary/Linux64/pingdata
 
 Help page:
 
 	NAME:
-	pingdata - Download PING data from http://www.nitrc.org/ir.
+	  pingdata - Download PING data from http://www.nitrc.org/ir.
 	
 	This program uses the XNAT REST API to download subject data. Start by listing
 	the subjects available:
