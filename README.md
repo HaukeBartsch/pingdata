@@ -8,9 +8,9 @@ information as zip files to the local directory.
 You can download the compiled program here (make it executable with 'chmod +x pingdata'):
 
 * MacOSX:
-	wget https://github.com/HaukeBartsch/pingdata/raw/master/binary/MacOSX/pingdata
+	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/MacOSX/pingdata
 * Linux64:
-	wget https://github.com/HaukeBartsch/pingdata/raw/master/binary/Linux64/pingdata
+	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/Linux64/pingdata
 
 Help page:
 
