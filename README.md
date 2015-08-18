@@ -5,12 +5,16 @@ This command line program connects to an XNAT image store, lists the subjects av
 information as zip files to the local directory.
 
 
+
+
 You can download the compiled program here (make it executable with 'chmod +x pingdata'):
 
 * MacOSX:
 	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/MacOSX/pingdata
 * Linux64:
 	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/Linux64/pingdata
+* Windows:
+	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/Windows/pingdata.exe
 
 Help page:
 
