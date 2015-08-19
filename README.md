@@ -15,14 +15,14 @@ Example:
 	download all DICOM files for subject P0007
 	[283.55mb] P0007.zip
 
-You can download the compiled program for your platform here (make it executable with 'chmod +x pingdata'):
+You can download the compiled program for your platform here. On Linux and MacOS make the downloaded file executable with 'chmod +x pingdata'.
 
 * MacOSX:
-	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/MacOSX/pingdata
+	https://raw.github.com/HaukeBartsch/pingdata/master/binary/MacOSX/pingdata
 * Linux64:
-	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/Linux64/pingdata
+	https://raw.github.com/HaukeBartsch/pingdata/master/binary/Linux64/pingdata
 * Windows:
-	wget https://raw.github.com/HaukeBartsch/pingdata/master/binary/Windows/pingdata.exe
+	https://raw.github.com/HaukeBartsch/pingdata/master/binary/Windows/pingdata.exe
 
 Help page (pingdata help):
 
